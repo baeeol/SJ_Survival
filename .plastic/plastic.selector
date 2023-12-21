@@ -1,0 +1,4 @@
+repository "sjh_project_booth-main@qata163753@cloud"
+  path "/"
+    br "/main"
+    co "/main"
